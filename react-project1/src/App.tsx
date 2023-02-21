@@ -10,6 +10,8 @@ import Cta from './components/cta/Cta';
 import Blog from './containers/blog/Blog';
 import Footer from './containers/footer/Footer';
 
+import './App.css';
+
 const App = () => {
   return (
     <div className='App'>
